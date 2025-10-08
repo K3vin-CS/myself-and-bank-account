@@ -2,7 +2,7 @@ class Human:
     def __init__(self, name, age, hobby, school):
         self.name = name
         self.age = age
-        self.hobby= hobby
+        self.hobby = hobby
         self.school = school
     
     def introduce(self):
